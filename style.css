@@ -1,0 +1,14 @@
+#box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: red;
+}
+
+.myClass {
+    color: red;
+}
+
+.newClass {
+    background-color:yellowgreen;
+}
